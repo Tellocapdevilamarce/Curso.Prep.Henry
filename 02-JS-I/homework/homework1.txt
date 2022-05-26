@@ -1,0 +1,9 @@
+VARIABLES: Una variable es un "lugar" donde nosotros vamos almacenar algo, para poder utlizarlo posteriormente en el programa.
+
+STRINGS: un string es una cadena de caracteres, que utlizamos generalmente cuando queremos que el programa se comunique con el usuario de este.
+
+FUNCIONES: Una funcion es estructura definida  por el programador, para poder escribir codigo que podamos utilizar las veces que sea necesario realizar tareas repetitivas, sin tener la necesidad de escribir todo de nuevo cade vez. 
+
+DECLARACIONES (if): Una declaracion "if" lo nos permite hacer es alguna verificacion a verdadero o falso, segun la condicion que nosotros le indiquemos.
+
+Booleanos: Los valores booleanos pueden ser dos valores "1" o "0", o  verdadero o falso, se utiliza para saber si algo es cierto o no.
